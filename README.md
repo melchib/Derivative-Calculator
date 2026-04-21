@@ -1,4 +1,4 @@
-#Derivative Calculator
+# Derivative Calculator
 A web-based symbolic differentiation calculator that parses and evaluates algebraic expressions in real time. Originally developed in Java as a console application and later rewritten in JavaScript with an interactive frontend.
 
 Features
